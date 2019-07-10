@@ -82,6 +82,7 @@ will look like.
   `git push origin HEAD:refs/for/master`
 * Go to [Gerrit web interface](https://gerrit.openbmc-project.xyz/), click on
   your new review, and add reviewers based on `MAINTAINERS` file in the repo.
+* For automated CI Jenkins review to work, contact your OpenBMC TSC rep and ask them to add you to CLA and gerrit group.
 
 ##### Conclusion
 If you've completed all of the above steps successfully, that's it! You have now
